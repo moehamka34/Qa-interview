@@ -1,0 +1,79 @@
+{
+    "name": "CA",
+    "value": 1
+}{
+    "name": {
+        "large": "https://randomuser.me/api/portraits/men/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "value": 2
+}{
+    "name": {
+        "name": "SIN",
+        "value": "102140837"
+    },
+    "value": 3
+}{
+    "name": "P08 S87-6707",
+    "value": 4
+}{
+    "name": "T75 T87-8088",
+    "value": 5
+}{
+    "name": {
+        "date": "2004-04-28T20:48:48.958Z",
+        "age": 18
+    },
+    "value": 6
+}{
+    "name": {
+        "date": "1978-09-20T02:08:23.352Z",
+        "age": 43
+    },
+    "value": 7
+}{
+    "name": {
+        "uuid": "60498e7d-262a-4f98-8ae6-d91acb8bdcd0",
+        "username": "tinygorilla881",
+        "password": "patch",
+        "salt": "izjP0LHU",
+        "md5": "016535d7872360d7a77261b4fbee90d2",
+        "sha1": "3f8d9a6998390fef2a753304ef7311528e22b6db",
+        "sha256": "a5f00f74bc954d772070014b6f7933d9f8a5428e207c0e5aebe2b2df752c197f"
+    },
+    "value": 8
+}{
+    "name": "jack.anderson@example.com",
+    "value": 9
+}{
+    "name": {
+        "street": {
+            "number": 5721,
+            "name": "George St"
+        },
+        "city": "Trout Lake",
+        "state": "Northwest Territories",
+        "country": "Canada",
+        "postcode": "L7Y 4D3",
+        "coordinates": {
+            "latitude": "-66.5204",
+            "longitude": "-46.3869"
+        },
+        "timezone": {
+            "offset": "-3:30",
+            "description": "Newfoundland"
+        }
+    },
+    "value": 10
+}{
+    "name": {
+        "title": "Mr",
+        "first": "Jack",
+        "last": "Anderson"
+    },
+    "value": 11
+}{
+    "name": "male",
+    "value": 12
+}
