@@ -1,3 +1,4 @@
+
 import requests      #imports the requests libaries for pytest
 BASE_URL = "https://randomuser.me/api"
 API = BASE_URL + "?q={city_name}&appid={api_key}&units=metric"
@@ -17,6 +18,13 @@ def test_get_locations_for_api_check_one_place_is_returned():
      response = requests.get("https://randomuser.me/api")
      response_body = response.json()
      assert len(response_body) == 2
+
+def test_get_cities():
+    response = requests.get("https://randomuser.me/api")
+    response_name = response.json()
+    assert len(response_name["results"][0]["location"]["city"]) != 0   #checking to make sure a string is returned.
+    
+    
 
 
 
